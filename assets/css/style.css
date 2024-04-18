@@ -1,0 +1,43 @@
+.roboto{
+    font-family: Roboto, Light;;
+}
+
+
+.bg-cuppon {
+    background-color: #28a745;
+}
+
+.card-text{
+    color: #212529;
+    font-family: Roboto, Light;
+    opacity: 100%;
+    text-align: left;
+   
+}
+h6{
+    color: #707070;
+    font-family: Roboto, Light;
+    
+    opacity: 100%;
+    text-align: left;
+}
+.direccion{
+    color: #707070; 
+    
+    opacity: 100%;
+    text-align: left;
+}
+h5{
+    color: #707070; 
+    
+    opacity: 100%;  
+   
+}
+.preciof{
+    color: #707070;
+}
+
+.descuento{
+    color: #28a745;
+    font-family: Roboto, Medium;
+}
